@@ -1,0 +1,11 @@
+.section-title h1::after {
+    background: navy none repeat scroll 0 0;
+    content: "";
+    height: 3px;
+    left: 27%;
+    position: absolute;
+    width: 45px;
+}
+.section-title h1 {
+    color: lightsalmon;
+}

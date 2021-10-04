@@ -1,0 +1,58 @@
+{
+    "services":[
+        {
+            "id": "233456",
+            "title":"Pronunciation",
+            "description":"Tricky English pronunciation. With listening practice.",
+            "img": "images/course4.jpg"
+        },
+        {
+            "id": "233457",
+            "title":"Fun and Games",
+            "description":"All work, no play makes Jack / Jill a dull boy / girl.",
+            "img": "images/p-2.jpg"
+        },
+        {
+            "id": "233458",
+            "title":"English Quizes",
+            "description":"What do you really know about England, the UK and the English language?",
+            "img": "images/p-3.jpg"
+        },
+        {
+            "id": "233459",
+            "title":"English Chat",
+            "description":"We like to talk with you, and we like you to talk to each other.",
+            "img": "images/p-4.jpg"
+        },
+        {
+            "id": "2334559",
+            "title":"English Chat",
+            "description":"We like to talk with you, and we like you to talk to each other.",
+            "img": "images/p-4.jpg"
+        },
+        {
+            "id": "2533459",
+            "title":"English Blog",
+            "description":"Read all about it! About what? Come and find out!",
+            "img": "images/p-5.jpg"
+        },
+        {
+            "id": "2333459",
+            "title":"English Forum",
+            "description":"Practise your grammar, vocabulary, reading and written English skills.",
+            "img": "images/p-6.jpg"
+        },
+        {
+            "id": "2335459",
+            "title":"Business English",
+            "description":"Discover a wide variety of exclusive learning materials to support your preparation for the IELTS exam.",
+            "img": "images/p-7.jpg"
+        },
+        {
+            "id": "233459",
+            "title":"IELTS",
+            "description":"We like to talk with you, and we like you to talk to each other.",
+            "img": "images/p-8.jpg"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+
+.section-title h2 {
+    font-size: 25px;
+}
+.section-title {
+    margin-bottom: 50px;
+}
+.single-service-item {
+    background: #fff none repeat scroll 0 0; 
+    transition: .2s;
+    height: 350px;
+}
+.single-service-item:hover{
+    box-shadow: 0 0 20px coral;
+}
+.service-bg {
+    background-color: #ddd;
+    background-position: center center;
+    background-size: cover;
+    height: 225px;
+}
+
+.service-content {
+    padding: 20px;
+}
+.service-content h3 {
+    color: #333;
+}
+.service-more-btn {
+    border-radius: 40px;
+    color: #93ca74;
+    display: inline-block;
+    font-weight: 700;
+    margin-top: 5px;
+    padding: 10px 5px;
+}
+.service-more-btn i.fa {
+    padding-left: 10px;
+    transition: .3s;
+}
+.service-more-btn:hover {
+    background: lightsalmon none repeat scroll 0 0;
+    color: #fff;
+    padding: 10px 15px;
+}

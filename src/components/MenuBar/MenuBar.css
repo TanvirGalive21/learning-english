@@ -1,0 +1,14 @@
+.items {
+    list-style: none;
+    margin-right: 30px;
+    font-size: 20px;
+    font-weight: 450;
+    color: rgb(218, 214, 214);
+    cursor: pointer;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .items:hover {
+    color: coral;
+  }
+  
